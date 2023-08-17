@@ -1,9 +1,4 @@
-/*
-* Title: Syn Scan Network
-* Description: Scan if some ports are open by sending SYN packets to all IP(s) in a network
-* Date: 29-Apr-2018
-* Author: William Chanrico
-*/
+
 #include <arpa/inet.h>
 #include <cstdlib>
 #include <inttypes.h>
